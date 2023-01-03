@@ -2,7 +2,6 @@
 #include <cstdio>
 #include "pcap.h"
 
-
 using namespace std;
 
 pcap_if_t* alldevs;//初始化指向pcap_if_t类型的指针，代表链表
