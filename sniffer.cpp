@@ -29,7 +29,7 @@ int Find_device()
 
     if (idev == 0)
     {
-        cout << "没有找到相关设备" << endl;
+        cout << "No device can be found!" << endl;
         return 1;
     }
     return 0;
